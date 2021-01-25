@@ -6,6 +6,8 @@ git branch -M 'branch_name'
 git remote add origin https://github.com/mkrndmb/git-test.git
 git push -u origin 'branch_name' 
 
+// if any error comesthen => git push origin main --force
+
 //from next time:
 git add .
 git commit -m 'message'
